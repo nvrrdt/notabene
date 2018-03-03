@@ -1,0 +1,4 @@
+/virtualenv
+*.log
+*.qmlc
+.vscode/settings.json
